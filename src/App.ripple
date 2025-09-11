@@ -1,0 +1,10 @@
+export component App() {
+	<main class='p-4 h-svh flex items-center justify-center max-w-768px mx-auto'><header class='text-center text-balance'>
+		<h1 class='text-5xl font-medium tracking-tighter leading-[0.9]'>{'RippleJS + TenoxUI'}</h1>
+		<p class='mt-8 tracking-tight font-medium text-current/70'>{'Quick styling solution for your Ripple app using utility-first classes by TenoxUI.'}</p>
+		<div class='flex justify-center mt-8 gap-4'>
+			<a href='https://github.com/trueadm/ripple' class='flex h-40px px-4 bg-gray-950 text-gray-50 items-center rounded-full font-medium tracking-tight'>{'Try Ripple'}</a>
+			<a href='https://tenoxui.web.app' class='flex h-40px px-4 border items-center rounded-full font-medium tracking-tight'>{'TenoxUI Docs'}</a>
+		</div>
+	</header></main>
+}
